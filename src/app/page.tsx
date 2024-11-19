@@ -21,7 +21,6 @@ import torusLight from "@/image/torusLight.png";
 import lightWightLight from "@/image/lightWightLight.png";
 import lightWightDark from "@/image/lightWightDark.png";
 import lightWightRlight from "@/image/lightWightRlight.png";
-import lightWightRdark from "@/image/lightWightRdark.png";
 import enduringDurabilityLight from "@/image/enduringDurabilityLight.png";
 import enduringDurabilityDark from "@/image/enduringDurabilityDark.png";
 import insulatingExcellenceLight from "@/image/insulatingExcellenceLight.png";
