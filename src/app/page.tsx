@@ -20,7 +20,6 @@ import torusDark from "@/image/torusDark.png";
 import torusLight from "@/image/torusLight.png";
 import lightWightLight from "@/image/lightWightLight.png";
 import lightWightDark from "@/image/lightWightDark.png";
-import lightWightRDark from "@/image/lightWightRDark.png";
 import lightWightRlight from "@/image/lightWightRlight.png";
 import lightWightRdark from "@/image/lightWightRdark.png";
 import enduringDurabilityLight from "@/image/enduringDurabilityLight.png";
