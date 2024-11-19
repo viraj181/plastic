@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --white: #ffffff;
+  --black: #171717;
+}
+
+*{
+  font-family: "Figtree", sans-serif;
+}
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 10px; /* Width of the scrollbar */
+  height: 10px; /* Height of the scrollbar (for horizontal scrollbar) */
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #6a7178, #b3b8bf); /* Gradient color for the thumb */
+  border-radius: 10px; /* Rounded corners for the thumb */
+  border: 2px solid transparent; /* Space between the thumb and track */
+  background-clip: content-box; /* Ensures the gradient is visible */
+}
+
+
+
+
+/* Light Mode Track */
+::-webkit-scrollbar-track {
+  background: #F1F1F1;
+}
+
+/* Dark Mode Track */
+.dark ::-webkit-scrollbar-track {
+  background: var(--black);
+}
